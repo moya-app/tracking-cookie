@@ -1,3 +1,3 @@
-module github.com/traefik/plugin-user-cookies
+module github.com/moya-app/tracking-cookie
 
 go 1.19
