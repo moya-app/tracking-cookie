@@ -1,12 +1,10 @@
 displayName: Tracking Cookie
 type: middleware
-iconPath: .assets/icon.png
 
 import: github.com/moya-app/tracking-cookie
 
 summary: 'Add a Random Cookie to Request Header if not exists. It can later be extracted via accesslog for grouping requests by user.'
+
 testData:
-  Name: ReqID
-  Domain: test.com
-
-
+  name: ReqID
+  domain: test.com
